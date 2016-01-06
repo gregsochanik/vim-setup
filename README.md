@@ -7,3 +7,5 @@ Sets up the following:
 * YouCompleteMe with `--omnisharp-completer --tern-completer options`
 
 and a few others to help with javascript dev - see the .vimrc for a list
+
+To run `./setup.sh`- warning it will overwrite any .vimrc file you have at ~/.vimrc with the one shown.
